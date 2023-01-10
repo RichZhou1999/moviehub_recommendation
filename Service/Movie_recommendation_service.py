@@ -24,6 +24,7 @@ class Movie_recommendation_service():
 
     def data_process(self):
         self.movie_data = pd.read_csv("%s" % self.filepath, lineterminator='\n')
+        self.movie_data = self.movie_data[:2000]
         for feature in self.selected_features:
             self.movie_data[feature] = self.movie_data[feature].fillna("")
         self.combined_features = self.movie_data['Title'] + self.movie_data['Overview'] + self.movie_data['Genre']

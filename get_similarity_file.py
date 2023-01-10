@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 filepath = "mymoviedb.csv"
 movie_data = pd.read_csv("%s" %filepath, lineterminator='\n')
-movie_data = movie_data[:1000]
+movie_data = movie_data[:2000]
 combined_features = movie_data['Title'] + movie_data['Overview'] + movie_data['Genre']
 vectorizer = TfidfVectorizer()
 feature_vectors = vectorizer.fit_transform(combined_features)

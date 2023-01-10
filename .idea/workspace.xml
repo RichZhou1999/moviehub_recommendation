@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369768d9-7622-45ba-a06d-8ce61cab6a64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Service/similarity.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/Movie_recommendation_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Movie_recommendation_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Service/mymoviedb.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Service/mymoviedb.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/mymoviedb_origin.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/similarity.npy" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_similarity_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_similarity_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymoviedb.csv" beforeDir="false" afterPath="$PROJECT_DIR$/mymoviedb.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymoviedb_origin.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/similarity.npy" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.npy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +118,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.Movie_recommendation_service" />
         <item itemvalue="Python.get_similarity_file" />
+        <item itemvalue="Python.Movie_recommendation_service" />
       </list>
     </recent_temporary>
   </component>
