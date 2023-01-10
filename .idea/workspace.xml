@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="369768d9-7622-45ba-a06d-8ce61cab6a64" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Service/similarity.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/Movie_recommendation_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Movie_recommendation_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Service/mymoviedb.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Service/mymoviedb.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_similarity_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_similarity_file.py" afterDir="false" />
@@ -140,16 +139,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Service/Movie_recommendation_service.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
